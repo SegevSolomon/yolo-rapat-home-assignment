@@ -29,4 +29,19 @@ Second image -
 ![task one one two](https://user-images.githubusercontent.com/89121546/162422910-d8e98e66-af84-45d9-bc1c-4cae9ab7a5dc.png)
 
 
+Part #2 - 
+
+Stream live video from the smartphone to VM.
+
+I use with DroidCam to connect the devices - https://www.dev47apps.com/
+
+After All configuration I was check if it works by "Cheese".
+![task two one](https://user-images.githubusercontent.com/89121546/162428843-b026ac59-c175-4299-9ee4-74618054ec7b.png)
+
+And after the connection works I write a script that show me the stream without 3rd program.
+The script code - 
+
+
+
+
 
