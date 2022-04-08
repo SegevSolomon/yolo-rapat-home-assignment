@@ -40,6 +40,8 @@ After All configuration I was check if it works by "Cheese".
 
 And after the connection works I write a script that show me the stream without 3rd program.
 [The script code here](https://github.com/SegevSolomon/yolo-rapat-home-assignment/blob/main/streamVideoScript.py)
+![task 2 with code](https://user-images.githubusercontent.com/89121546/162429859-10143745-b5dc-480e-8f77-dd52fe7df61e.png)
+
 
 
 
